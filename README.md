@@ -27,6 +27,7 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 - [Screenshots of Project](https://drive.google.com/drive/folders/13reboBmi6b9jQVylBIywMklp0VxlNO4z?usp=drive_link)
+- [demo video link](https://youtu.be/ocAnYbf7Sjo) - interactive web ui
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
